@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">RAHUL876</string>
-    <string name="title_activity_main">RAHUL876</string>
-    <string name="package_name">com.rahul876.matkaapp</string>
-    <string name="custom_url_scheme">com.rahul876.matkaapp</string>
-</resources>
