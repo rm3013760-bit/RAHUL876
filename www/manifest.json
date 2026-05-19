@@ -1,0 +1,16 @@
+{
+  "name": "RAHUL876",
+  "short_name": "RAHUL876",
+  "description": "India's trusted matka gaming platform",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FAFBFE",
+  "theme_color": "#007AFF",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
