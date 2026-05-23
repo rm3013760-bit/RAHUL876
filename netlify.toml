@@ -1,0 +1,17 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/get_settings.php"
+  to = "/get_settings.json"
+  status = 200
+
+[[redirects]]
+  from = "/_get_latest_notice.php"
+  to = "/_get_latest_notice.json"
+  status = 200
+
+[[redirects]]
+  from = "/_get_noticeboard.php"
+  to = "/_get_noticeboard.json"
+  status = 200
